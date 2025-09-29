@@ -53,9 +53,7 @@ def test
     question.
   
     File.open("review_log.txt", "a") do |file|
-    file.puts "Question: 1. To best support beneficiary questions and remain compliant with the required materials at the time of enrollment, 
-    which minimal marketing materials must agents ensure they have available during a marketing event?"
-    file.puts "User Answer: #{answer}"
+    file.puts "1. Question 1"
     file.puts "Result: #{answer == 4 ? 'Correct' : 'Incorrect'}"
     file.puts "-" * 40
     end
