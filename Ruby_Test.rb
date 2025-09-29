@@ -1521,10 +1521,6 @@ def test
 end
 
 =begin
-  Built for Kylie McAfee and Elysse Keiper during my training.  Watching the time grading and going this could be faster automated 
-  and easier to review, I had to make it.  So, for the two of you enjoy this gift from that one trainee that got bugged with an 
-  analog test.
-
   Built by Thomas Couch, Grey Knight Software
 =end  
 
